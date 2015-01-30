@@ -10,4 +10,4 @@ $ou:  this is the base search ou.  script traverses every ou under this one
 $excludedous:  these ou's will be ignored, needs to be a string or an array of strings
 $inactiveou:  disabled and inactive objects will be moved here, string of the full ou path
 
-questions?  email m.crupi@pitt.edu
+questions?  email mmcru@outlook.com
